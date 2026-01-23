@@ -1,0 +1,23 @@
+[
+  {
+    "objectID": "readme.html",
+    "href": "readme.html",
+    "title": "",
+    "section": "",
+    "text": "This repository contains Quarto files and configurations for creating presentations.\nQuarto must be installed to use this template. For installation instructions, visit the Quarto website."
+  },
+  {
+    "objectID": "readme.html#how-to-use-this-template-locally",
+    "href": "readme.html#how-to-use-this-template-locally",
+    "title": "",
+    "section": "How to use this template locally",
+    "text": "How to use this template locally\n\nFork the repository to your own presentation repository.\nClone or download the forked repository to your local machine.\nOpen the Quarto files in your preferred editor (e.g., VSCode).\nCustomize the content as needed for your presentation in index.qmd.\nRender the presentation using Quarto commands.\nquarto preview"
+  },
+  {
+    "objectID": "readme.html#how-to-deploy-the-presentation-online",
+    "href": "readme.html#how-to-deploy-the-presentation-online",
+    "title": "",
+    "section": "How to deploy the presentation online",
+    "text": "How to deploy the presentation online\nWe provide GitHub Actions workflows to automatically deploy your presentation to GitHub Pages. But you have to initialize the process by following these steps:\n\nEnsure your presentation repository is hosted on GitHub.\nRun the command below to create the initial deployment commit:\nquarto publish gh-pages\n\nNow, every time you push changes to the main branch, the GitHub Actions workflow will automatically build and deploy your presentation to GitHub Pages."
+  }
+]
