@@ -4,20 +4,97 @@
     "href": "readme.html",
     "title": "",
     "section": "",
-    "text": "This repository contains Quarto files and configurations for creating presentations.\nQuarto must be installed to use this template. For installation instructions, visit the Quarto website."
+    "text": "This talk is a presentation of the scientific and technical expertises of the HPC@Maths team for a common seminar with Ananke team. For more details, please visit the following link:\nhttps://hpc-maths.github.io/2026-ananke-hpcmaths"
   },
   {
-    "objectID": "readme.html#how-to-use-this-template-locally",
-    "href": "readme.html#how-to-use-this-template-locally",
-    "title": "",
-    "section": "How to use this template locally",
-    "text": "How to use this template locally\n\nFork the repository to your own presentation repository.\nClone or download the forked repository to your local machine.\nOpen the Quarto files in your preferred editor (e.g., VSCode).\nCustomize the content as needed for your presentation in index.qmd.\nRender the presentation using Quarto commands.\nquarto preview"
+    "objectID": "index.html#team-composition",
+    "href": "index.html#team-composition",
+    "title": "HPC@Maths",
+    "section": "Team composition",
+    "text": "Team composition\n\n5 researchers\n6 research engineers in scientific computing\n2 post-docs\n7 phd students\nSeveral external collaborators"
   },
   {
-    "objectID": "readme.html#how-to-deploy-the-presentation-online",
-    "href": "readme.html#how-to-deploy-the-presentation-online",
-    "title": "",
-    "section": "How to deploy the presentation online",
-    "text": "How to deploy the presentation online\nWe provide GitHub Actions workflows to automatically deploy your presentation to GitHub Pages. But you have to initialize the process by following these steps:\n\nEnsure your presentation repository is hosted on GitHub.\nRun the command below to create the initial deployment commit:\nquarto publish gh-pages\n\nNow, every time you push changes to the main branch, the GitHub Actions workflow will automatically build and deploy your presentation to GitHub Pages."
+    "objectID": "index.html#cap",
+    "href": "index.html#cap",
+    "title": "HPC@Maths",
+    "section": "CAP",
+    "text": "CAP"
+  },
+  {
+    "objectID": "index.html#linear-algebra",
+    "href": "index.html#linear-algebra",
+    "title": "HPC@Maths",
+    "section": "Linear algebra",
+    "text": "Linear algebra"
+  },
+  {
+    "objectID": "index.html#kinetic-and-moments",
+    "href": "index.html#kinetic-and-moments",
+    "title": "HPC@Maths",
+    "section": "kinetic and moments",
+    "text": "kinetic and moments"
+  },
+  {
+    "objectID": "index.html#quantum-computing",
+    "href": "index.html#quantum-computing",
+    "title": "HPC@Maths",
+    "section": "Quantum computing",
+    "text": "Quantum computing"
+  },
+  {
+    "objectID": "index.html#new-numerical-schemes",
+    "href": "index.html#new-numerical-schemes",
+    "title": "HPC@Maths",
+    "section": "New numerical schemes",
+    "text": "New numerical schemes"
+  },
+  {
+    "objectID": "index.html#multiphase-flow",
+    "href": "index.html#multiphase-flow",
+    "title": "HPC@Maths",
+    "section": "Multiphase flow",
+    "text": "Multiphase flow"
+  },
+  {
+    "objectID": "index.html#lattice-boltzmann-methods",
+    "href": "index.html#lattice-boltzmann-methods",
+    "title": "HPC@Maths",
+    "section": "lattice Boltzmann methods",
+    "text": "lattice Boltzmann methods"
+  },
+  {
+    "objectID": "index.html#sciml",
+    "href": "index.html#sciml",
+    "title": "HPC@Maths",
+    "section": "SciML",
+    "text": "SciML"
+  },
+  {
+    "objectID": "index.html#open-source-software",
+    "href": "index.html#open-source-software",
+    "title": "HPC@Maths",
+    "section": "open source software",
+    "text": "open source software\n\nsamurai\nponio\npylbm\nscopi"
+  },
+  {
+    "objectID": "index.html#languages-and-libraries",
+    "href": "index.html#languages-and-libraries",
+    "title": "HPC@Maths",
+    "section": "languages and libraries",
+    "text": "languages and libraries\n\nC++\nPython"
+  },
+  {
+    "objectID": "index.html#software-engineering",
+    "href": "index.html#software-engineering",
+    "title": "HPC@Maths",
+    "section": "software engineering",
+    "text": "software engineering\n\nVersion control\nTests\nDocumentation\nPackaging (conda, spack, guix)\nGitHub Actions"
+  },
+  {
+    "objectID": "index.html#partnership",
+    "href": "index.html#partnership",
+    "title": "HPC@Maths",
+    "section": "Partnership",
+    "text": "Partnership\n\nScientific partnership\n\nCEA\nONERA\nTotalEnergies\nThales\nSafran\nNASA\n\nTechnical partnership\n\nCEA\nQuantStack\nNVIDIA"
   }
 ]
