@@ -1,12 +1,11 @@
 ---
-title: ""
-subtitle: "subtitle"
+title: "HPC@Maths"
+# subtitle: "subtitle"
 author:
   name: Loïc Gouarin, Marc Massot
-date: 4 december 2025
+date: 30 january 2026
 date-format: long
 keep-tex: true
-lang: fr
 format:
   revealjs:
     css: css/light.css
@@ -28,7 +27,7 @@ resources:
   - videos/**
   - css/fonts/**
 highlight-style: github
-footer: séminaire HPC@Maths <img class="video-responsive-5" src="figures/by-sa.png"/> 30 janvier 2026
+footer: séminaire HPC@Maths/Ananke <img class="video-responsive-5" src="figures/by-sa.png"/> January 30, 2026
 ---
 
 ```{=html}
