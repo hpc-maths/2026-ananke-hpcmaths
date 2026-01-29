@@ -37,11 +37,13 @@ footer: séminaire HPC@Maths/Ananke <img class="video-responsive-5" src="figures
 <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0/dist/js/bootstrap.bundle.min.js"></script>
 ```
 
+:::{.center-page}
 - 5 researchers
 - 6 research engineers in scientific computing
 - 2 post-docs
 - 7 phd students
 - Several external collaborators
+:::
 
 # Scientific topics
 
@@ -65,36 +67,130 @@ footer: séminaire HPC@Maths/Ananke <img class="video-responsive-5" src="figures
 
 ## open source software
 
-- samurai
-- ponio
-- pylbm
-- scopi
--
+**samurai**
 
-## languages and libraries
+:::{.row}
+::::{.col}
 
-- C++
+- C++ 20 header only
+- Adaptive mesh refinement techniques
+- New data structure: intervals + algebra of sets
+- Finite volume and lattice Boltzmann methods
+- MPI and GPU soon
+::::
+::::{.col .align-self-center  .text-center}
+![](figures/dark_logo_samurai.png){width="80%"}
+::::
+:::
+
+
+<br>
+
+**ponio**
+
+:::{.row}
+::::{.col}
+- C++ 20 header only
+- time integrators for solving differential equations
+- A large collection of methods:
+  eRK, DIRK, LRK, expRK, RKC, Lie or Strang splitting
+- Highly flexible
+::::
+::::{.col .align-self-center .text-center}
+![](figures/lorenz.gif){width="60%"}
+::::
+:::
+
+## open source software
+
+**pylbm**
+
+:::{.row}
+::::{.col}
+
 - Python
+- lattice Boltzmann methods
+- Analysis tools
+- Sympy
+- Source code generator
+- MPI and GPU
+::::
+::::{.col .align-self-center  .text-center}
+![](figures/pylbm.png){width="60%"}
+::::
+:::
+
+
+<br>
+
+**SCoPI**
+
+:::{.row}
+::::{.col}
+- C++ code
+- Simulation of interacting particle collections
+- 2D and 3D simulations
+- Convex regular shape
+- Contact models: inelastic, with or without friction or viscous
+::::
+::::{.col .align-self-center .text-center}
+![](figures/scopi.png){width="60%"}
+::::
+:::
 
 ## software engineering
 
+:::{.center-page}
 - Version control
 - Tests
 - Documentation
 - Packaging (conda, spack, guix)
 - GitHub Actions
+- AI agents (beginner)
+:::
 
-## Partnership
+## Training
 
-- Scientific partnership
-  - CEA
-  - ONERA
-  - TotalEnergies
-  - Thales
-  - Safran
-  - NASA
+:::{.center-page}
+- Hands-on samurai
 
-- Technical partnership
-  - CEA
-  - QuantStack
-  - NVIDIA
+  [https://hpc-maths.github.io/2025-hands-on-samurai/](https://hpc-maths.github.io/2025-hands-on-samurai/)
+
+- Distribuer son application Python
+
+  [https://gouarin.github.io/python-packaging-2023/](https://gouarin.github.io/python-packaging-2023/)
+
+- Cadre de développement et automatisation pour l'open source
+
+  [https://gouarin.github.io/dev_env_and_automatisation/](https://gouarin.github.io/dev_env_and_automatisation/)
+:::
+
+---
+
+:::::{.center-page}
+:::{.row}
+::::{.col}
+**Scientific partnership**
+
+- CEA
+- ONERA
+- TotalEnergies
+- Thales
+- Safran
+- NASA
+::::
+::::{.col}
+**Technical partnership**
+
+- CEA
+- QuantStack
+- NVIDIA
+::::
+:::
+::::::
+
+---
+
+:::{.center-page}
+<h4>Thank you for your attention</h4>
+:::
