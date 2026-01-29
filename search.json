@@ -11,7 +11,7 @@
     "href": "index.html#team-composition",
     "title": "HPC@Maths",
     "section": "Team composition",
-    "text": "Team composition\n\n\n\n5 researchers\n6 research engineers in scientific computing\n2 post-docs\n7 phd students\nSeveral external collaborators"
+    "text": "Team composition\n\n\n\n\n5 researchers\n6 research engineers in scientific computing\n2 post-docs\n7 phd students\nSeveral external collaborators"
   },
   {
     "objectID": "index.html#cap",
@@ -74,27 +74,27 @@
     "href": "index.html#open-source-software",
     "title": "HPC@Maths",
     "section": "open source software",
-    "text": "open source software\n\nsamurai\nponio\npylbm\nscopi"
+    "text": "open source software\nsamurai\n\n\n\nC++ 20 header only\nAdaptive mesh refinement techniques\nNew data structure: intervals + algebra of sets\nFinite volume and lattice Boltzmann methods\nMPI and GPU soon\n\n\n\n\n\n\n\nponio\n\n\n\nC++ 20 header only\ntime integrators for solving differential equations\nA large collection of methods: eRK, DIRK, LRK, expRK, RKC, Lie or Strang splitting\nHighly flexible"
   },
   {
-    "objectID": "index.html#languages-and-libraries",
-    "href": "index.html#languages-and-libraries",
+    "objectID": "index.html#open-source-software-1",
+    "href": "index.html#open-source-software-1",
     "title": "HPC@Maths",
-    "section": "languages and libraries",
-    "text": "languages and libraries\n\nC++\nPython"
+    "section": "open source software",
+    "text": "open source software\npylbm\n\n\n\nPython\nlattice Boltzmann methods\nAnalysis tools\nSympy\nSource code generator\nMPI and GPU\n\n\n\n\n\n\n\nSCoPI\n\n\n\nC++ code\nSimulation of interacting particle collections\n2D and 3D simulations\nConvex regular shape\nContact models: inelastic, with or without friction or viscous"
   },
   {
     "objectID": "index.html#software-engineering",
     "href": "index.html#software-engineering",
     "title": "HPC@Maths",
     "section": "software engineering",
-    "text": "software engineering\n\nVersion control\nTests\nDocumentation\nPackaging (conda, spack, guix)\nGitHub Actions"
+    "text": "software engineering\n\n\nVersion control\nTests\nDocumentation\nPackaging (conda, spack, guix)\nGitHub Actions\nAI agents (beginner)"
   },
   {
-    "objectID": "index.html#partnership",
-    "href": "index.html#partnership",
+    "objectID": "index.html#training",
+    "href": "index.html#training",
     "title": "HPC@Maths",
-    "section": "Partnership",
-    "text": "Partnership\n\nScientific partnership\n\nCEA\nONERA\nTotalEnergies\nThales\nSafran\nNASA\n\nTechnical partnership\n\nCEA\nQuantStack\nNVIDIA"
+    "section": "Training",
+    "text": "Training\n\n\nHands-on samurai\nhttps://hpc-maths.github.io/2025-hands-on-samurai/\nDistribuer son application Python\nhttps://gouarin.github.io/python-packaging-2023/\nCadre de développement et automatisation pour l’open source\nhttps://gouarin.github.io/dev_env_and_automatisation/"
   }
 ]
