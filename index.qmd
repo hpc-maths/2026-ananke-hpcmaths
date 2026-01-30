@@ -231,6 +231,34 @@ GMRES, etc.),
 :::
 :::
 
+## Turbulence, processes and particles
+
+<br>
+
+<br>
+
+:::{.row}
+::::{.col .align-self-center .text-center}
+- Low-regularity stochastic processes (Intermittency)
+- Kinetic Simulation of Turbulence based on wavelets
+- Numerical simulation based on OU processes
+- Kinetic approach / FP / Moment methods
+- Link with SPDEs in fluid mechanics
+:::
+:::
+
+<br>
+
+**applications**
+
+:::{.row}
+::::{.col .align-self-center .text-center}
+- Two-phase flows 
+- Fluid Mechanics and Turbulence
+- LES of two-way coupled particle-laden turbulence
+:::
+:::
+
 
 ## Emerging topics : Quantum computing
 
