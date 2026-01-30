@@ -47,8 +47,9 @@ footer: séminaire HPC@Maths/Ananke <img class="video-responsive-5" src="figures
 
 # Scientific topics
 
-## Computer assisted proof in PDEs
+## Computer assisted proof in PDEs 
 
+Maxime Breden, Matthieu Cadiot, Hugo Chu
 
 :::::{.center-page-vertically-2}
 :::{.row}
@@ -80,6 +81,7 @@ in the vicinity of the approximate solution
 
 ## Computational linear algebra
 
+Élise Fressart, Lucien Gontier, Loïc Gouarin, Pierre Matalon, Nicole Spillane
 
 :::::{.center-page-vertically-2}
 :::{.row}
@@ -109,6 +111,9 @@ GMRES, etc.),
 
 
 ## Kinetic theory and moment methods
+
+Vincent Giovangigli, Teddy Pichard, Marc Massot, Daniele Biasone, Zoubaïr Tazzakati, Josselin Massot, Remy Annunziata, Ward Haegeman, Giuseppe Orlando
+
 
 :::::{.center-page-vertically-2}
 :::{.row}
@@ -140,6 +145,9 @@ GMRES, etc.),
 
 ## New numerical schemes
 
+Teddy Pichard, Marc Massot, Zoubaïr Tazzakati, Josselin Massot, Pierre Matalon, Loïc Gouarin, Laurent Séries, Sébastien Dubois, Alexandre Hoffmann, Antoine Simon, Vincent Giovangigli
+
+
 :::::{.center-page-vertically-2}
 :::{.row}
 ::::{.col .lh-lg}
@@ -167,6 +175,8 @@ GMRES, etc.),
 
 ## Variational approch (SAP)
 
+Ward Haegeman, Marc Massot, Giuseppe Orlando
+
 :::::{.center-page-vertically-2}
 :::{.row}
 ::::{.col .lh-lg}
@@ -193,7 +203,9 @@ GMRES, etc.),
 :::
 :::::
 
-## lattice Boltzmann methods
+## Lattice Boltzmann methods
+
+Loïc Gouarin, Marc Massot
 
 :::::{.center-page-vertically-2}
 :::{.row}
@@ -220,6 +232,8 @@ GMRES, etc.),
 
 ## Turbulence, processes and particles
 
+Clément Morhain, Marc Massot
+
 :::::{.center-page-vertically-2}
 :::{.row}
 ::::{.col .lh-lg}
@@ -244,7 +258,9 @@ GMRES, etc.),
 :::::
 
 
-## Emerging topics : Quantum computing
+## Quantum computing
+
+Nicole Spillane, Élise Fressart, Loïc Gouarin, Sébastien Dubois
 
 :::::{.center-page-vertically-2}
 :::{.row}
@@ -270,7 +286,9 @@ Qiskit (Python).
 
 ## Emerging topics : SciML
 
-:::::{.center-page-vertically-2}
+Loïc Gouarin, Rémy Hosseinkhan, Marc Massot
+
+:::::{.center-page-verticall,y-2}
 :::{.row}
 ::::{.col .lh-lg}
 - Simulation of high-dimensional PDEs
