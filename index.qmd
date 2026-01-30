@@ -49,47 +49,42 @@ footer: séminaire HPC@Maths/Ananke <img class="video-responsive-5" src="figures
 
 ## Computer assisted proof in PDEs
 
-<br>
 
-<br>
-
+:::::{.center-page-vertically-2}
 :::{.row}
-::::{.col .align-self-center .text-center}
+::::{.col .lh-lg}
 - Existence
 of specific solutions (overall dynamics of the system - limit cycles / travelling waves...)
 - Certification of the result of a numerical simulation
 - Based on a fixed point argument
 in the vicinity of the approximate solution
 - Numerical analysis and computations
-:::
-:::
+::::
 
-<br>
+::::{.col-4 .align-self-center .text-center .border .fragment .border-2}
 
+:::{.color-0}
 **emerging topics**
+:::
 
-:::{.row}
-::::{.col .align-self-center .text-center}
 - Navier-Stokes
 - Cost reduction of simulations
 - Bifurcations
-- Connexions in parabolic PDEs 
+- Connexions in parabolic PDEs
 - Beyond Fourier Series standard tools
+::::
 :::
-:::
-
+:::::
 
 
 
 ## Computational linear algebra
 
 
-<br>
-
-<br>
-
+:::::{.center-page-vertically-2}
 :::{.row}
-::::{.col .align-self-center .text-center}
+::::{.col .lh-lg}
+
 - Applied and computational linear algebra
 - High-performance computing in the sense of
 massively parallel computing,
@@ -98,30 +93,26 @@ massively parallel computing,
 - Krylov solvers (Conjugate gradient,
 GMRES, etc.),
 - PDEs with stochastic coefficients
-:::
-:::
+::::
 
-<br>
+::::{.col-4 .align-self-center .text-center .border .fragment .border-2}
 
+:::{.color-0}
 **applications**
+:::
 
-:::{.row}
-::::{.col .align-self-center .text-center}
 - Solid Mechanics
 - Development of code and libraries
+::::
 :::
-:::
-
+:::::
 
 
 ## Kinetic theory and moment methods
 
-<br>
-
-<br>
-
+:::::{.center-page-vertically-2}
 :::{.row}
-::::{.col .align-self-center .text-center}
+::::{.col .lh-lg}
 - Derivation of fluid equation from kinetic theory
 - Cohesive and Interfacial fluid derivation
 - Multi-scale Chapman Enskog and Hilbert expansion
@@ -129,190 +120,172 @@ GMRES, etc.),
 - Limits of approach and link with SAP
 - Geometric Method of Moments
 - Large phase space description - semi-kinetic method
-:::
-:::
+::::
 
-<br>
+::::{.col-4 .align-self-center .text-center .border .fragment .border-2}
 
+:::{.color-0}
 **applications**
+:::
 
-:::{.row}
-::::{.col .align-self-center .text-center}
 - Gas-surface interaction
 - Two-phase flows
 - Hybrid fluid-rarefied flows
 - Plasma physics
-- Countrail formation and pollution modelling 
+- Countrail formation and pollution modelling
 - Nuclear Engineering
+::::
 :::
-:::
+:::::
 
 ## New numerical schemes
 
-<br>
-
-<br>
-
+:::::{.center-page-vertically-2}
 :::{.row}
-::::{.col .align-self-center .text-center}
+::::{.col .lh-lg}
 - Dynamic spatial and temporal adaptation with error control (wavelet/splitting/ImEx)
-- Code coupling - high-order multi-step 
+- Code coupling - high-order multi-step
 - DG methods and high-order wavelets
 - Well-balanced / AP schemes / time-space approach
-:::
-:::
+::::
 
-<br>
+::::{.col-4 .align-self-center .text-center .border .fragment .border-2}
 
+:::{.color-0}
 **applications**
+:::
 
-:::{.row}
-::::{.col .align-self-center .text-center}
 - Combustion
 - Lithium Battery
 - Plasma physics
-- Two-phase flows 
+- Two-phase flows
 - Biomedical Engineering
 - Propulsion and reentry at high altitude
+::::
 :::
-:::
+:::::
 
 ## Variational approch (SAP)
 
-<br>
-
-<br>
-
+:::::{.center-page-vertically-2}
 :::{.row}
-::::{.col .align-self-center .text-center}
-- Derivation of PDEs wihtout dissipation 
+::::{.col .lh-lg}
+- Derivation of PDEs wihtout dissipation
 - Analysis of mathematical properties
 - Link with KT / fluid approach from microscopic
 - Lin constraint - Geometry
-:::
-:::
+::::
 
-<br>
+::::{.col-4 .align-self-center .text-center .border .fragment .border-2}
 
+:::{.color-0}
 **applications**
+:::
 
-:::{.row}
-::::{.col .align-self-center .text-center}
 - Plasma physics
-- Two-phase flows 
+- Two-phase flows
 - Fluid Mechanics
 - Nuclear Engineering
+::::
 :::
-:::
+:::::
 
 ## lattice Boltzmann methods
 
-<br>
-
-<br>
-
+:::::{.center-page-vertically-2}
 :::{.row}
-::::{.col .align-self-center .text-center}
-- Numerical Analysis of LB schemes 
-- Treatment of boundary conditions 
+::::{.col .lh-lg}
+- Numerical Analysis of LB schemes
+- Treatment of boundary conditions
 - Dynamic mesh adaption with erroir control
-- High order schemes 
-- Hyperbolic/parabolic scaling 
-:::
-:::
+- High order schemes
+- Hyperbolic/parabolic scaling
+::::
 
-<br>
+::::{.col-4 .align-self-center .text-center .border .fragment .border-2}
 
+:::{.color-0}
 **applications**
+:::
 
-:::{.row}
-::::{.col .align-self-center .text-center}
-- Two-phase flows 
+- Two-phase flows
 - Fluid Mechanics
 - Aerospace Engineering - Hypersonic flows
+::::
 :::
-:::
+:::::
 
 ## Turbulence, processes and particles
 
-<br>
-
-<br>
-
+:::::{.center-page-vertically-2}
 :::{.row}
-::::{.col .align-self-center .text-center}
+::::{.col .lh-lg}
 - Low-regularity stochastic processes (Intermittency)
 - Kinetic Simulation of Turbulence based on wavelets
 - Numerical simulation based on OU processes
 - Kinetic approach / FP / Moment methods
 - Link with SPDEs in fluid mechanics
-:::
-:::
+::::
 
-<br>
+::::{.col-4 .align-self-center .text-center .border .fragment .border-2}
 
+:::{.color-0}
 **applications**
+:::
 
-:::{.row}
-::::{.col .align-self-center .text-center}
-- Two-phase flows 
+- Two-phase flows
 - Fluid Mechanics and Turbulence
 - LES of two-way coupled particle-laden turbulence
+::::
 :::
-:::
+:::::
 
 
 ## Emerging topics : Quantum computing
 
-<br>
-
-<br>
-
+:::::{.center-page-vertically-2}
 :::{.row}
-::::{.col .align-self-center .text-center}
+::::{.col .lh-lg}
 - Quantum algorithm for PDE simulation
-- Mesh adaptation and error control 
+- Mesh adaptation and error control
 - Linear Algebra
 - FE programming with DOLFINx and PETSc (Python + MPI),
 - Quantum computer emulation with
 Qiskit (Python).
-:::
-:::
+::::
 
-<br>
+::::{.col-4 .align-self-center .text-center .border .fragment .border-2}
 
+:::{.color-0}
 **applications**
+:::
 
-:::{.row}
-::::{.col .align-self-center .text-center}
 - ElectroMagnetism : Maxwell Equations
+::::
 :::
-:::
+:::::
 
 ## Emerging topics : SciML
 
-<br>
-
-<br>
-
+:::::{.center-page-vertically-2}
 :::{.row}
-::::{.col .align-self-center .text-center}
-- Simulation of high-dimensional PDEs 
-- Closure for moment methods 
-:::
-:::
+::::{.col .lh-lg}
+- Simulation of high-dimensional PDEs
+- Closure for moment methods
+::::
 
-<br>
+::::{.col-4 .align-self-center .text-center .border .fragment .border-2}
 
+:::{.color-0}
 **applications**
+:::
 
-:::{.row}
-::::{.col .align-self-center .text-center}
 - Plasma physics
-- Two-phase flows 
+- Two-phase flows
 - Financial Engineering (collab.)
+::::
 :::
-:::
+:::::
 
 # Technical skills
 
@@ -389,6 +362,17 @@ Qiskit (Python).
 ::::
 :::
 
+## open source software
+
+**GenEO**
+
+- linear elasticity
+- Finite element
+- GenEO algorithm
+- Python
+- New preconditioner implementation using petsc4py
+- Fenics for matrix assembling
+
 ## software engineering
 
 :::{.center-page}
@@ -402,7 +386,7 @@ Qiskit (Python).
 
 ## Training
 
-:::{.center-page}
+:::{.center-page .lh-lg}
 - Hands-on samurai
 
   [https://hpc-maths.github.io/2025-hands-on-samurai/](https://hpc-maths.github.io/2025-hands-on-samurai/)
@@ -446,17 +430,11 @@ Qiskit (Python).
 
 ## Interactions
 
-<br>
-
-<br>
-
-:::{.row}
-::::{.col .align-self-center .text-center}
+:::{.center-page-vertically-2 .lh-lg .text-center}
 - Alexandre H.,  Philippe M. (HJB simulation with samurai)
 - Sébastien I. (code-coupling / mesh adaptation)
 - GT Fixed-point iteration acceleration (Workshop Edimburg May - Visit Y. Saad)
 - Kinetic theory and fluid equations (Flash Workshop next Monday)
-:::
 :::
 
 ---
