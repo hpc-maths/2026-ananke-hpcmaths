@@ -2,7 +2,7 @@
 title: "HPC@Maths"
 # subtitle: "subtitle"
 date: 30 january 2026
-author: 
+author:
   name: Loïc Gouarin, Marc Massot
 date-format: long
 keep-tex: true
@@ -47,9 +47,9 @@ footer: séminaire HPC@Maths/Ananke <img class="video-responsive-5" src="figures
 
 # Scientific topics
 
-## Computer assisted proof in PDEs 
+## Computer assisted proof in PDEs
 
-Maxime Breden, Matthieu Cadiot, Hugo Chu
+<h5>Maxime Breden, Matthieu Cadiot, Hugo Chu</h5>
 
 :::::{.center-page-vertically-2}
 :::{.row}
@@ -81,7 +81,7 @@ in the vicinity of the approximate solution
 
 ## Computational linear algebra
 
-Élise Fressart, Lucien Gontier, Loïc Gouarin, Pierre Matalon, Nicole Spillane
+<h5>Élise Fressart, Lucien Gontier, Loïc Gouarin, Pierre Matalon, Nicole Spillane</h5>
 
 :::::{.center-page-vertically-2}
 :::{.row}
@@ -112,7 +112,7 @@ GMRES, etc.),
 
 ## Kinetic theory and moment methods
 
-Vincent Giovangigli, Teddy Pichard, Marc Massot, Daniele Biasone, Zoubaïr Tazzakati, Josselin Massot, Remy Annunziata, Ward Haegeman, Giuseppe Orlando
+<h5>Remy Annunziata, Daniele Biasone, Vincent Giovangigli, Ward Haegeman, Josselin Massot, Marc Massot, Giuseppe Orlando, Teddy Pichard, Zoubaïr Tazzakati</h5>
 
 
 :::::{.center-page-vertically-2}
@@ -145,7 +145,7 @@ Vincent Giovangigli, Teddy Pichard, Marc Massot, Daniele Biasone, Zoubaïr Tazza
 
 ## New numerical schemes
 
-Teddy Pichard, Marc Massot, Zoubaïr Tazzakati, Josselin Massot, Pierre Matalon, Loïc Gouarin, Laurent Séries, Sébastien Dubois, Alexandre Hoffmann, Antoine Simon, Vincent Giovangigli
+<h5>Sébastien Dubois, Vincent Giovangigli, Loïc Gouarin, Alexandre Hoffmann, Josselin Massot, Marc Massot, Pierre Matalon, Teddy Pichard, Laurent Séries, Antoine Simon, Zoubaïr Tazzakati</h5>
 
 
 :::::{.center-page-vertically-2}
@@ -175,7 +175,7 @@ Teddy Pichard, Marc Massot, Zoubaïr Tazzakati, Josselin Massot, Pierre Matalon,
 
 ## Variational approch (SAP)
 
-Ward Haegeman, Marc Massot, Giuseppe Orlando
+<h5>Ward Haegeman, Marc Massot, Giuseppe Orlando</h5>
 
 :::::{.center-page-vertically-2}
 :::{.row}
@@ -205,7 +205,7 @@ Ward Haegeman, Marc Massot, Giuseppe Orlando
 
 ## Lattice Boltzmann methods
 
-Loïc Gouarin, Marc Massot
+<h5>Loïc Gouarin, Marc Massot</h5>
 
 :::::{.center-page-vertically-2}
 :::{.row}
@@ -232,7 +232,7 @@ Loïc Gouarin, Marc Massot
 
 ## Turbulence, processes and particles
 
-Clément Morhain, Marc Massot
+<h5>Clément Morhain, Marc Massot</h5>
 
 :::::{.center-page-vertically-2}
 :::{.row}
@@ -260,7 +260,7 @@ Clément Morhain, Marc Massot
 
 ## Quantum computing
 
-Nicole Spillane, Élise Fressart, Loïc Gouarin, Sébastien Dubois
+<h5>Sébastien Dubois, Élise Fressart, Loïc Gouarin, Nicole Spillane</h5>
 
 :::::{.center-page-vertically-2}
 :::{.row}
@@ -286,7 +286,7 @@ Qiskit (Python).
 
 ## Emerging topics : SciML
 
-Loïc Gouarin, Rémy Hosseinkhan, Marc Massot
+<h5>Loïc Gouarin, Rémy Hosseinkhan, Marc Massot</h5>
 
 :::::{.center-page-verticall,y-2}
 :::{.row}
