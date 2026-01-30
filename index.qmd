@@ -40,8 +40,8 @@ footer: séminaire HPC@Maths/Ananke <img class="video-responsive-5" src="figures
 :::{.center-page}
 - 5 researchers
 - 6 research engineers in scientific computing
-- 2 post-docs
-- 8 phd students
+- 3 post-docs
+- 9 phd students
 - Several external collaborators (~10)
 :::
 
