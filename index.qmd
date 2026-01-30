@@ -41,27 +41,248 @@ footer: séminaire HPC@Maths/Ananke <img class="video-responsive-5" src="figures
 - 5 researchers
 - 6 research engineers in scientific computing
 - 2 post-docs
-- 7 phd students
-- Several external collaborators
+- 8 phd students
+- Several external collaborators (~10)
 :::
 
 # Scientific topics
 
-## CAP
+## Computer assisted proof in PDEs
 
-## Linear algebra
+<br>
 
-## kinetic and moments
+<br>
 
-## Quantum computing
+:::{.row}
+::::{.col .align-self-center .text-center}
+- Existence
+of specific solutions (overall dynamics of the system - limit cycles / travelling waves...)
+- Certification of the result of a numerical simulation
+- Based on a fixed point argument
+in the vicinity of the approximate solution
+- Numerical analysis and computations
+:::
+:::
+
+<br>
+
+**emerging topics**
+
+:::{.row}
+::::{.col .align-self-center .text-center}
+- Navier-Stokes
+- Cost reduction of simulations
+- Bifurcations
+- Connexions in parabolic PDEs 
+- Beyond Fourier Series standard tools
+:::
+:::
+
+
+
+
+## Computational linear algebra
+
+
+<br>
+
+<br>
+
+:::{.row}
+::::{.col .align-self-center .text-center}
+- Applied and computational linear algebra
+- High-performance computing in the sense of
+massively parallel computing,
+- Domain decomposition,
+- Preconditioning,
+- Krylov solvers (Conjugate gradient,
+GMRES, etc.),
+- PDEs with stochastic coefficients
+:::
+:::
+
+<br>
+
+**applications**
+
+:::{.row}
+::::{.col .align-self-center .text-center}
+- Solid Mechanics
+- Development of code and libraries
+:::
+:::
+
+
+
+## Kinetic theory and moment methods
+
+<br>
+
+<br>
+
+:::{.row}
+::::{.col .align-self-center .text-center}
+- Derivation of fluid equation from kinetic theory
+- Method of moments (Closure)
+- Multi-scale Chapman Enskog and Hilbert expansion
+- Limits of approach and link with SAP
+- Geometric Method of Moments
+- Large phase space description - semi-kinetic method
+:::
+:::
+
+<br>
+
+**applications**
+
+:::{.row}
+::::{.col .align-self-center .text-center}
+- Two-phase flows
+- Hybrid fluid-rarefied flows
+- Plasma physics
+- Countrail formation and pollution modelling 
+- Nuclear Engineering
+:::
+:::
 
 ## New numerical schemes
 
-## Multiphase flow
+<br>
+
+<br>
+
+:::{.row}
+::::{.col .align-self-center .text-center}
+- Dynamic spatial and temporal adaptation with error control (wavelet/splitting/ImEx)
+- Code coupling - high-order multi-step 
+- DG methods and high-order wavelets
+- Well-balanced / AP schemes / time-space approach
+:::
+:::
+
+<br>
+
+**applications**
+
+:::{.row}
+::::{.col .align-self-center .text-center}
+- Combustion
+- Lithium Battery
+- Plasma physics
+- Two-phase flows 
+- Biomedical Engineering
+- Propulsion and reentry at high altitude
+:::
+:::
+
+## Variational approch (SAP)
+
+<br>
+
+<br>
+
+:::{.row}
+::::{.col .align-self-center .text-center}
+- Derivation of PDEs wihtout dissipation 
+- Analysis of mathematical properties
+- Link with KT / fluid approach from microscopic
+- Lin constraint - Geometry
+:::
+:::
+
+<br>
+
+**applications**
+
+:::{.row}
+::::{.col .align-self-center .text-center}
+- Plasma physics
+- Two-phase flows 
+- Fluid Mechanics
+- Nuclear Engineering
+:::
+:::
 
 ## lattice Boltzmann methods
 
-## SciML
+<br>
+
+<br>
+
+:::{.row}
+::::{.col .align-self-center .text-center}
+- Numerical Analysis of LB schemes 
+- Treatment of boundary conditions 
+- Dynamic mesh adaption with erroir control
+- High order schemes 
+- Hyperbolic/parabolic scaling 
+:::
+:::
+
+<br>
+
+**applications**
+
+:::{.row}
+::::{.col .align-self-center .text-center}
+- Two-phase flows 
+- Fluid Mechanics
+- Aerospace Engineering - Hypersonic flows
+:::
+:::
+
+
+## Emerging topics : Quantum computing
+
+<br>
+
+<br>
+
+:::{.row}
+::::{.col .align-self-center .text-center}
+- Quantum algorithm for PDE simulation
+- Mesh adaptation and error control 
+- Linear Algebra
+- FE programming with DOLFINx and PETSc (Python + MPI),
+- Quantum computer emulation with
+Qiskit (Python).
+:::
+:::
+
+<br>
+
+**applications**
+
+:::{.row}
+::::{.col .align-self-center .text-center}
+- ElectroMagnetism : Maxwell Equations
+:::
+:::
+
+## Emerging topics : SciML
+
+<br>
+
+<br>
+
+:::{.row}
+::::{.col .align-self-center .text-center}
+- Simulation of high-dimensional PDEs 
+- Closure for moment methods 
+:::
+:::
+
+<br>
+
+**applications**
+
+:::{.row}
+::::{.col .align-self-center .text-center}
+- Plasma physics
+- Two-phase flows 
+- Financial Engineering (collab.)
+:::
+:::
 
 # Technical skills
 
