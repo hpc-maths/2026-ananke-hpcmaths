@@ -181,9 +181,9 @@ GMRES, etc.),
 :::{.row}
 ::::{.col .lh-lg}
 - Derivation of PDEs wihtout dissipation
-- Extended Theromdynamics - Dissipation
+- Extended Thermodynamics - Dissipation
 - Analysis of mathematical properties
-- Two-scale unified models - all topology models
+- Two-scale unified modeling - all topology model
 - Link with microscopic - geometrical moments
 - Lin constraint - Geometry
 - Sources terms / Relaxation and numerical schemes
@@ -195,7 +195,6 @@ GMRES, etc.),
 **applications**
 :::
 
-- Plasma physics
 - Two-phase flows
 - Fluid Mechanics
 - Nuclear Engineering
@@ -454,7 +453,7 @@ Qiskit (Python).
 
 :::{.center-page-vertically-2 .lh-lg .text-center}
 - Alexandre H.,  Philippe M. (HJB simulation with samurai)
-- Sébastien I. (code-coupling / mesh adaptation)
+- Sébastien I. (code-coupling / mesh adaptation / DG)
 - GT Fixed-point resolution improvement (Visit Y. Saad 1st and 2nd of June)
 - Kinetic theory and fluid equations (Flash Workshop next Monday)
 - SAP : workshop before Ward's defense (8th of June - defense 9th of June)
