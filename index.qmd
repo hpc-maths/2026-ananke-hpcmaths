@@ -1,8 +1,6 @@
 ---
 title: "HPC@Maths"
 # subtitle: "subtitle"
-author:
-  name: Loïc Gouarin, Marc Massot
 date: 30 january 2026
 date-format: long
 keep-tex: true
