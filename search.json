@@ -18,7 +18,7 @@
     "href": "index.html#computer-assisted-proof-in-pdes",
     "title": "HPC@Maths",
     "section": "Computer assisted proof in PDEs",
-    "text": "Computer assisted proof in PDEs\n\n\n\n\nExistence of specific solutions (overall dynamics of the system - limit cycles / travelling waves…)\nCertification of the result of a numerical simulation\nBased on a fixed point argument in the vicinity of the approximate solution\nNumerical analysis and computations\n\n\n\n\nemerging topics\n\n\nNavier-Stokes\nCost reduction of simulations\nBifurcations\nConnexions in parabolic PDEs\nBeyond Fourier Series standard tools"
+    "text": "Computer assisted proof in PDEs\n\n\n\n\nExistence of specific solutions (overall dynamics of the system - limit cycles / travelling waves…)\nCertification of the result of a numerical simulation\nBased on a fixed point argument in the vicinity of the approximate solution\nNumerical analysis and computations\n\n\n\n\nemerging topics\n\n\nNavier-Stokes\nCost reduction of proofs\nBifurcations\nConnexions in parabolic PDEs\nBeyond Fourier Series standard tools"
   },
   {
     "objectID": "index.html#computational-linear-algebra",
