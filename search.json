@@ -32,7 +32,7 @@
     "href": "index.html#kinetic-theory-and-moment-methods",
     "title": "HPC@Maths",
     "section": "Kinetic theory and moment methods",
-    "text": "Kinetic theory and moment methods\n\n\n\n\n\nDerivation of fluid equation from kinetic theory\nMethod of moments (Closure)\nMulti-scale Chapman Enskog and Hilbert expansion\nLimits of approach and link with SAP\nGeometric Method of Moments\nLarge phase space description - semi-kinetic method\n\n\n\n\napplications\n\n\n\nTwo-phase flows\nHybrid fluid-rarefied flows\nPlasma physics\nCountrail formation and pollution modelling\nNuclear Engineering"
+    "text": "Kinetic theory and moment methods\n\n\n\n\n\nDerivation of fluid equation from kinetic theory\nCohesive and Interfacial fluid derivation\nMulti-scale Chapman Enskog and Hilbert expansion\nMethod of moments (Closure)\nLimits of approach and link with SAP\nGeometric Method of Moments\nLarge phase space description - semi-kinetic method\n\n\n\n\napplications\n\n\n\nGas-surface interaction\nTwo-phase flows\nHybrid fluid-rarefied flows\nPlasma physics\nCountrail formation and pollution modelling\nNuclear Engineering"
   },
   {
     "objectID": "index.html#new-numerical-schemes",
@@ -103,5 +103,12 @@
     "title": "HPC@Maths",
     "section": "Training",
     "text": "Training\n\n\nHands-on samurai\nhttps://hpc-maths.github.io/2025-hands-on-samurai/\nDistribuer son application Python\nhttps://gouarin.github.io/python-packaging-2023/\nCadre de développement et automatisation pour l’open source\nhttps://gouarin.github.io/dev_env_and_automatisation/"
+  },
+  {
+    "objectID": "index.html#interactions",
+    "href": "index.html#interactions",
+    "title": "HPC@Maths",
+    "section": "Interactions",
+    "text": "Interactions\n\n\n\n\n\nAlexandre H., Philippe M. (HJB simulation with samurai)\nSébastien I. (code-coupling / mesh adaptation)\nGT Fixed-point iteration acceleration (Workshop Edimburg May - Visit Y. Saad)\nKinetic theory and fluid equations (Flash Workshop next Monday)"
   }
 ]
