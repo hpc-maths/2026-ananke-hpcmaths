@@ -56,6 +56,13 @@
     "text": "lattice Boltzmann methods\n\n\n\n\n\nNumerical Analysis of LB schemes\nTreatment of boundary conditions\nDynamic mesh adaption with erroir control\nHigh order schemes\nHyperbolic/parabolic scaling\n\n\n\n\napplications\n\n\n\nTwo-phase flows\nFluid Mechanics\nAerospace Engineering - Hypersonic flows"
   },
   {
+    "objectID": "index.html#turbulence-processes-and-particles",
+    "href": "index.html#turbulence-processes-and-particles",
+    "title": "HPC@Maths",
+    "section": "Turbulence, processes and particles",
+    "text": "Turbulence, processes and particles\n\n\n\n\n\nLow-regularity stochastic processes (Intermittency)\nKinetic Simulation of Turbulence based on wavelets\nNumerical simulation based on OU processes\nKinetic approach / FP / Moment methods\nLink with SPDEs in fluid mechanics\n\n\n\n\napplications\n\n\n\nTwo-phase flows\nFluid Mechanics and Turbulence\nLES of two-way coupled particle-laden turbulence"
+  },
+  {
     "objectID": "index.html#emerging-topics-quantum-computing",
     "href": "index.html#emerging-topics-quantum-computing",
     "title": "HPC@Maths",
