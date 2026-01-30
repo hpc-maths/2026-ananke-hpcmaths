@@ -2,6 +2,8 @@
 title: "HPC@Maths"
 # subtitle: "subtitle"
 date: 30 january 2026
+author: 
+  name: Loïc Gouarin, Marc Massot
 date-format: long
 keep-tex: true
 format:
@@ -169,9 +171,12 @@ GMRES, etc.),
 :::{.row}
 ::::{.col .lh-lg}
 - Derivation of PDEs wihtout dissipation
+- Extended Theromdynamics - Dissipation
 - Analysis of mathematical properties
-- Link with KT / fluid approach from microscopic
+- Two-scale unified models - all topology models
+- Link with microscopic - geometrical moments
 - Lin constraint - Geometry
+- Sources terms / Relaxation and numerical schemes
 ::::
 
 ::::{.col-4 .align-self-center .text-center .border .fragment .border-2}
@@ -408,6 +413,7 @@ Qiskit (Python).
 
 - CEA
 - MdlS
+- EDF
 - ONERA
 - TotalEnergies
 - Thales
@@ -431,10 +437,9 @@ Qiskit (Python).
 :::{.center-page-vertically-2 .lh-lg .text-center}
 - Alexandre H.,  Philippe M. (HJB simulation with samurai)
 - Sébastien I. (code-coupling / mesh adaptation)
-- GT Fixed-point iteration acceleration (Workshop Edimburg May - Visit Y. Saad)
+- GT Fixed-point resolution improvement (Visit Y. Saad 1st and 2nd of June)
 - Kinetic theory and fluid equations (Flash Workshop next Monday)
 - SAP : workshop before Ward's defense (8th of June - defense 9th of June)
-- Visit of Yousef Saad - 1st and 2nd of June
 :::
 
 ---
