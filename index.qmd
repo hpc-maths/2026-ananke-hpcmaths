@@ -435,6 +435,7 @@ Qiskit (Python).
 - Sébastien I. (code-coupling / mesh adaptation)
 - GT Fixed-point iteration acceleration (Workshop Edimburg May - Visit Y. Saad)
 - Kinetic theory and fluid equations (Flash Workshop next Monday)
+- SAP : workshop before Ward's defense (8th of June - defense 9th of June)
 :::
 
 ---
