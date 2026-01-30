@@ -68,7 +68,7 @@ in the vicinity of the approximate solution
 :::
 
 - Navier-Stokes
-- Cost reduction of simulations
+- Cost reduction of proofs
 - Bifurcations
 - Connexions in parabolic PDEs
 - Beyond Fourier Series standard tools
