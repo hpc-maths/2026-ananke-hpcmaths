@@ -123,8 +123,9 @@ GMRES, etc.),
 :::{.row}
 ::::{.col .align-self-center .text-center}
 - Derivation of fluid equation from kinetic theory
-- Method of moments (Closure)
+- Cohesive and Interfacial fluid derivation
 - Multi-scale Chapman Enskog and Hilbert expansion
+- Method of moments (Closure)
 - Limits of approach and link with SAP
 - Geometric Method of Moments
 - Large phase space description - semi-kinetic method
@@ -137,6 +138,7 @@ GMRES, etc.),
 
 :::{.row}
 ::::{.col .align-self-center .text-center}
+- Gas-surface interaction
 - Two-phase flows
 - Hybrid fluid-rarefied flows
 - Plasma physics
@@ -419,14 +421,17 @@ Qiskit (Python).
 :::::{.center-page}
 :::{.row}
 ::::{.col}
+
 **Scientific partnership**
 
 - CEA
+- MdlS
 - ONERA
 - TotalEnergies
 - Thales
 - Safran
 - NASA
+
 ::::
 ::::{.col}
 **Technical partnership**
@@ -437,6 +442,22 @@ Qiskit (Python).
 ::::
 :::
 ::::::
+
+
+## Interactions
+
+<br>
+
+<br>
+
+:::{.row}
+::::{.col .align-self-center .text-center}
+- Alexandre H.,  Philippe M. (HJB simulation with samurai)
+- Sébastien I. (code-coupling / mesh adaptation)
+- GT Fixed-point iteration acceleration (Workshop Edimburg May - Visit Y. Saad)
+- Kinetic theory and fluid equations (Flash Workshop next Monday)
+:::
+:::
 
 ---
 
