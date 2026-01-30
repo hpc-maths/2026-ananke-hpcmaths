@@ -18,63 +18,63 @@
     "href": "index.html#computer-assisted-proof-in-pdes",
     "title": "HPC@Maths",
     "section": "Computer assisted proof in PDEs",
-    "text": "Computer assisted proof in PDEs\nMaxime Breden, Matthieu Cadiot, Hugo Chu\n\n\n\n\nExistence of specific solutions (overall dynamics of the system - limit cycles / travelling waves…)\nCertification of the result of a numerical simulation\nBased on a fixed point argument in the vicinity of the approximate solution\nNumerical analysis and computations\n\n\n\n\nemerging topics\n\n\nNavier-Stokes\nCost reduction of proofs\nBifurcations\nConnexions in parabolic PDEs\nBeyond Fourier Series standard tools"
+    "text": "Computer assisted proof in PDEs\n\nMaxime Breden, Matthieu Cadiot, Hugo Chu\n\n\n\n\n\nExistence of specific solutions (overall dynamics of the system - limit cycles / travelling waves…)\nCertification of the result of a numerical simulation\nBased on a fixed point argument in the vicinity of the approximate solution\nNumerical analysis and computations\n\n\n\n\nemerging topics\n\n\nNavier-Stokes\nCost reduction of proofs\nBifurcations\nConnexions in parabolic PDEs\nBeyond Fourier Series standard tools"
   },
   {
     "objectID": "index.html#computational-linear-algebra",
     "href": "index.html#computational-linear-algebra",
     "title": "HPC@Maths",
     "section": "Computational linear algebra",
-    "text": "Computational linear algebra\nÉlise Fressart, Lucien Gontier, Loïc Gouarin, Pierre Matalon, Nicole Spillane\n\n\n\n\nApplied and computational linear algebra\nHigh-performance computing in the sense of massively parallel computing,\nDomain decomposition,\nPreconditioning,\nKrylov solvers (Conjugate gradient, GMRES, etc.),\nPDEs with stochastic coefficients\n\n\n\n\napplications\n\n\nSolid Mechanics\nDevelopment of code and libraries"
+    "text": "Computational linear algebra\n\nÉlise Fressart, Lucien Gontier, Loïc Gouarin, Pierre Matalon, Nicole Spillane\n\n\n\n\n\nApplied and computational linear algebra\nHigh-performance computing in the sense of massively parallel computing,\nDomain decomposition,\nPreconditioning,\nKrylov solvers (Conjugate gradient, GMRES, etc.),\nPDEs with stochastic coefficients\n\n\n\n\napplications\n\n\nSolid Mechanics\nDevelopment of code and libraries"
   },
   {
     "objectID": "index.html#kinetic-theory-and-moment-methods",
     "href": "index.html#kinetic-theory-and-moment-methods",
     "title": "HPC@Maths",
     "section": "Kinetic theory and moment methods",
-    "text": "Kinetic theory and moment methods\nVincent Giovangigli, Teddy Pichard, Marc Massot, Daniele Biasone, Zoubaïr Tazzakati, Josselin Massot, Remy Annunziata, Ward Haegeman, Giuseppe Orlando\n\n\n\n\nDerivation of fluid equation from kinetic theory\nCohesive and Interfacial fluid derivation\nMulti-scale Chapman Enskog and Hilbert expansion\nMethod of moments (Closure)\nLimits of approach and link with SAP\nGeometric Method of Moments\nLarge phase space description - semi-kinetic method\n\n\n\n\napplications\n\n\nGas-surface interaction\nTwo-phase flows\nHybrid fluid-rarefied flows\nPlasma physics\nCountrail formation and pollution modelling\nNuclear Engineering"
+    "text": "Kinetic theory and moment methods\n\nRemy Annunziata, Daniele Biasone, Vincent Giovangigli, Ward Haegeman, Josselin Massot, Marc Massot, Giuseppe Orlando, Teddy Pichard, Zoubaïr Tazzakati\n\n\n\n\n\nDerivation of fluid equation from kinetic theory\nCohesive and Interfacial fluid derivation\nMulti-scale Chapman Enskog and Hilbert expansion\nMethod of moments (Closure)\nLimits of approach and link with SAP\nGeometric Method of Moments\nLarge phase space description - semi-kinetic method\n\n\n\n\napplications\n\n\nGas-surface interaction\nTwo-phase flows\nHybrid fluid-rarefied flows\nPlasma physics\nCountrail formation and pollution modelling\nNuclear Engineering"
   },
   {
     "objectID": "index.html#new-numerical-schemes",
     "href": "index.html#new-numerical-schemes",
     "title": "HPC@Maths",
     "section": "New numerical schemes",
-    "text": "New numerical schemes\nTeddy Pichard, Marc Massot, Zoubaïr Tazzakati, Josselin Massot, Pierre Matalon, Loïc Gouarin, Laurent Séries, Sébastien Dubois, Alexandre Hoffmann, Antoine Simon, Vincent Giovangigli\n\n\n\n\nDynamic spatial and temporal adaptation with error control (wavelet/splitting/ImEx)\nCode coupling - high-order multi-step\nDG methods and high-order wavelets\nWell-balanced / AP schemes / time-space approach\n\n\n\n\napplications\n\n\nCombustion\nLithium Battery\nPlasma physics\nTwo-phase flows\nBiomedical Engineering\nPropulsion and reentry at high altitude"
+    "text": "New numerical schemes\n\nSébastien Dubois, Vincent Giovangigli, Loïc Gouarin, Alexandre Hoffmann, Josselin Massot, Marc Massot, Pierre Matalon, Teddy Pichard, Laurent Séries, Antoine Simon, Zoubaïr Tazzakati\n\n\n\n\n\nDynamic spatial and temporal adaptation with error control (wavelet/splitting/ImEx)\nCode coupling - high-order multi-step\nDG methods and high-order wavelets\nWell-balanced / AP schemes / time-space approach\n\n\n\n\napplications\n\n\nCombustion\nLithium Battery\nPlasma physics\nTwo-phase flows\nBiomedical Engineering\nPropulsion and reentry at high altitude"
   },
   {
     "objectID": "index.html#variational-approch-sap",
     "href": "index.html#variational-approch-sap",
     "title": "HPC@Maths",
     "section": "Variational approch (SAP)",
-    "text": "Variational approch (SAP)\nWard Haegeman, Marc Massot, Giuseppe Orlando\n\n\n\n\nDerivation of PDEs wihtout dissipation\nExtended Theromdynamics - Dissipation\nAnalysis of mathematical properties\nTwo-scale unified models - all topology models\nLink with microscopic - geometrical moments\nLin constraint - Geometry\nSources terms / Relaxation and numerical schemes\n\n\n\n\napplications\n\n\nPlasma physics\nTwo-phase flows\nFluid Mechanics\nNuclear Engineering"
+    "text": "Variational approch (SAP)\n\nWard Haegeman, Marc Massot, Giuseppe Orlando\n\n\n\n\n\nDerivation of PDEs wihtout dissipation\nExtended Theromdynamics - Dissipation\nAnalysis of mathematical properties\nTwo-scale unified models - all topology models\nLink with microscopic - geometrical moments\nLin constraint - Geometry\nSources terms / Relaxation and numerical schemes\n\n\n\n\napplications\n\n\nPlasma physics\nTwo-phase flows\nFluid Mechanics\nNuclear Engineering"
   },
   {
     "objectID": "index.html#lattice-boltzmann-methods",
     "href": "index.html#lattice-boltzmann-methods",
     "title": "HPC@Maths",
     "section": "Lattice Boltzmann methods",
-    "text": "Lattice Boltzmann methods\nLoïc Gouarin, Marc Massot\n\n\n\n\nNumerical Analysis of LB schemes\nTreatment of boundary conditions\nDynamic mesh adaption with erroir control\nHigh order schemes\nHyperbolic/parabolic scaling\n\n\n\n\napplications\n\n\nTwo-phase flows\nFluid Mechanics\nAerospace Engineering - Hypersonic flows"
+    "text": "Lattice Boltzmann methods\n\nLoïc Gouarin, Marc Massot\n\n\n\n\n\nNumerical Analysis of LB schemes\nTreatment of boundary conditions\nDynamic mesh adaption with erroir control\nHigh order schemes\nHyperbolic/parabolic scaling\n\n\n\n\napplications\n\n\nTwo-phase flows\nFluid Mechanics\nAerospace Engineering - Hypersonic flows"
   },
   {
     "objectID": "index.html#turbulence-processes-and-particles",
     "href": "index.html#turbulence-processes-and-particles",
     "title": "HPC@Maths",
     "section": "Turbulence, processes and particles",
-    "text": "Turbulence, processes and particles\nClément Morhain, Marc Massot\n\n\n\n\nLow-regularity stochastic processes (Intermittency)\nKinetic Simulation of Turbulence based on wavelets\nNumerical simulation based on OU processes\nKinetic approach / FP / Moment methods\nLink with SPDEs in fluid mechanics\n\n\n\n\napplications\n\n\nTwo-phase flows\nFluid Mechanics and Turbulence\nLES of two-way coupled particle-laden turbulence"
+    "text": "Turbulence, processes and particles\n\nClément Morhain, Marc Massot\n\n\n\n\n\nLow-regularity stochastic processes (Intermittency)\nKinetic Simulation of Turbulence based on wavelets\nNumerical simulation based on OU processes\nKinetic approach / FP / Moment methods\nLink with SPDEs in fluid mechanics\n\n\n\n\napplications\n\n\nTwo-phase flows\nFluid Mechanics and Turbulence\nLES of two-way coupled particle-laden turbulence"
   },
   {
     "objectID": "index.html#quantum-computing",
     "href": "index.html#quantum-computing",
     "title": "HPC@Maths",
     "section": "Quantum computing",
-    "text": "Quantum computing\nNicole Spillane, Élise Fressart, Loïc Gouarin, Sébastien Dubois\n\n\n\n\nQuantum algorithm for PDE simulation\nMesh adaptation and error control\nLinear Algebra\nFE programming with DOLFINx and PETSc (Python + MPI),\nQuantum computer emulation with Qiskit (Python).\n\n\n\n\napplications\n\n\nElectroMagnetism : Maxwell Equations"
+    "text": "Quantum computing\n\nSébastien Dubois, Élise Fressart, Loïc Gouarin, Nicole Spillane\n\n\n\n\n\nQuantum algorithm for PDE simulation\nMesh adaptation and error control\nLinear Algebra\nFE programming with DOLFINx and PETSc (Python + MPI),\nQuantum computer emulation with Qiskit (Python).\n\n\n\n\napplications\n\n\nElectroMagnetism : Maxwell Equations"
   },
   {
     "objectID": "index.html#emerging-topics-sciml",
     "href": "index.html#emerging-topics-sciml",
     "title": "HPC@Maths",
     "section": "Emerging topics : SciML",
-    "text": "Emerging topics : SciML\nLoïc Gouarin, Rémy Hosseinkhan, Marc Massot\n\n\n\n\nSimulation of high-dimensional PDEs\nClosure for moment methods\n\n\n\n\napplications\n\n\nPlasma physics\nTwo-phase flows\nFinancial Engineering (collab.)"
+    "text": "Emerging topics : SciML\n\nLoïc Gouarin, Rémy Hosseinkhan, Marc Massot\n\n\n\n\n\nSimulation of high-dimensional PDEs\nClosure for moment methods\n\n\n\n\napplications\n\n\nPlasma physics\nTwo-phase flows\nFinancial Engineering (collab.)"
   },
   {
     "objectID": "index.html#open-source-software",

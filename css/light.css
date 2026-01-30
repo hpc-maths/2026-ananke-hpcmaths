@@ -198,7 +198,7 @@ p.subtitle {
     font-size: var(--r-heading2-size);
     font-weight: normal;
     color: var(--r-heading-color);
-    margin-bottom: 4vh;
+    margin-bottom: 1vh;
     text-align: left;
 }
 
@@ -228,6 +228,15 @@ p.subtitle {
     font-size: var(--r-heading4-size);
     font-family: var(--r-main-font);
     font-weight: 200 !important;
+}
+
+.reveal h5 {
+    font-size: 2vh;
+    font-family: var(--r-main-font);
+    font-weight: 400 !important;
+    font-style: italic;
+    color: var(--r-other-color) !important;
+    margin-bottom: 3vh;
 }
 
 .reveal h1 {
