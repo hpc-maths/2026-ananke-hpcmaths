@@ -46,7 +46,7 @@
     "href": "index.html#variational-approch-sap",
     "title": "HPC@Maths",
     "section": "Variational approch (SAP)",
-    "text": "Variational approch (SAP)\n\nWard Haegeman, Marc Massot, Giuseppe Orlando\n\n\n\n\n\nDerivation of PDEs wihtout dissipation\nExtended Theromdynamics - Dissipation\nAnalysis of mathematical properties\nTwo-scale unified models - all topology models\nLink with microscopic - geometrical moments\nLin constraint - Geometry\nSources terms / Relaxation and numerical schemes\n\n\n\n\napplications\n\n\nPlasma physics\nTwo-phase flows\nFluid Mechanics\nNuclear Engineering"
+    "text": "Variational approch (SAP)\n\nWard Haegeman, Marc Massot, Giuseppe Orlando\n\n\n\n\n\nDerivation of PDEs wihtout dissipation\nExtended Thermodynamics - Dissipation\nAnalysis of mathematical properties\nTwo-scale unified modeling - all topology model\nLink with microscopic - geometrical moments\nLin constraint - Geometry\nSources terms / Relaxation and numerical schemes\n\n\n\n\napplications\n\n\nTwo-phase flows\nFluid Mechanics\nNuclear Engineering"
   },
   {
     "objectID": "index.html#lattice-boltzmann-methods",
@@ -116,6 +116,6 @@
     "href": "index.html#interactions",
     "title": "HPC@Maths",
     "section": "Interactions",
-    "text": "Interactions\n\n\nAlexandre H., Philippe M. (HJB simulation with samurai)\nSébastien I. (code-coupling / mesh adaptation)\nGT Fixed-point resolution improvement (Visit Y. Saad 1st and 2nd of June)\nKinetic theory and fluid equations (Flash Workshop next Monday)\nSAP : workshop before Ward’s defense (8th of June - defense 9th of June)"
+    "text": "Interactions\n\n\nAlexandre H., Philippe M. (HJB simulation with samurai)\nSébastien I. (code-coupling / mesh adaptation / DG)\nGT Fixed-point resolution improvement (Visit Y. Saad 1st and 2nd of June)\nKinetic theory and fluid equations (Flash Workshop next Monday)\nSAP : workshop before Ward’s defense (8th of June - defense 9th of June)"
   }
 ]
